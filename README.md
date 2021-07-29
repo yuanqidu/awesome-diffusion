@@ -1,1 +1,1 @@
-# awesome-EBM
+# awesome-diffusion
